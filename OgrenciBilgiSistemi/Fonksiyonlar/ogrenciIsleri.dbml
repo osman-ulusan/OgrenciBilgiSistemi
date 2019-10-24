@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="OgrenciIsleriSistemi" Class="ogrenciIsleriDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=WISSEN09\OGLE302;Initial Catalog=OgrenciIsleriSistemi;Persist Security Info=True;User ID=sa" SettingsObjectName="OgrenciBilgiSistemi.Properties.Settings" SettingsPropertyName="OgrenciIsleriSistemiConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblBolum" Member="tblBolums">
+    <Type Name="tblBolum">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BolumAdi" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="FakulteId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblBolum_tblDersKayit" Member="tblDersKayits" ThisKey="Id" OtherKey="BolumId" Type="tblDersKayit" />
+      <Association Name="tblBolum_tblDersSecim" Member="tblDersSecims" ThisKey="Id" OtherKey="BolumId" Type="tblDersSecim" />
+      <Association Name="tblBolum_tblOgrenci" Member="tblOgrencis" ThisKey="Id" OtherKey="BolumId" Type="tblOgrenci" />
+      <Association Name="tblFakulte_tblBolum" Member="tblFakulte" ThisKey="FakulteId" OtherKey="Id" Type="tblFakulte" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblDersKayit" Member="tblDersKayits">
+    <Type Name="tblDersKayit">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DersAdi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="BolumId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OgrtId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblDersKayit_tblDersSecim" Member="tblDersSecims" ThisKey="Id" OtherKey="DersId" Type="tblDersSecim" />
+      <Association Name="tblBolum_tblDersKayit" Member="tblBolum" ThisKey="BolumId" OtherKey="Id" Type="tblBolum" IsForeignKey="true" />
+      <Association Name="tblOgrtGorevlisi_tblDersKayit" Member="tblOgrtGorevlisi" ThisKey="OgrtId" OtherKey="Id" Type="tblOgrtGorevlisi" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblDersSecim" Member="tblDersSecims">
+    <Type Name="tblDersSecim">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DersId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OgrId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="BolumId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblBolum_tblDersSecim" Member="tblBolum" ThisKey="BolumId" OtherKey="Id" Type="tblBolum" IsForeignKey="true" />
+      <Association Name="tblDersKayit_tblDersSecim" Member="tblDersKayit" ThisKey="DersId" OtherKey="Id" Type="tblDersKayit" IsForeignKey="true" />
+      <Association Name="tblOgrenci_tblDersSecim" Member="tblOgrenci" ThisKey="OgrId" OtherKey="Id" Type="tblOgrenci" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblFakulte" Member="tblFakultes">
+    <Type Name="tblFakulte">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FakulteAdi" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Association Name="tblFakulte_tblBolum" Member="tblBolums" ThisKey="Id" OtherKey="FakulteId" Type="tblBolum" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblGiris" Member="tblGiris">
+    <Type Name="tblGiri">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="kullaniciAdi" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="sifre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="mode" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblMode_tblGiri" Member="tblMode" ThisKey="mode" OtherKey="id" Type="tblMode" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblMode" Member="tblModes">
+    <Type Name="tblMode">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="modeAdları" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tblMode_tblGiri" Member="tblGiris" ThisKey="id" OtherKey="mode" Type="tblGiri" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblOgrenci" Member="tblOgrencis">
+    <Type Name="tblOgrenci">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OgrAdiSoyadi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OgrNumara" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TcKimlik" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BolumId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Adres" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="Telefon" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DogumTarihi" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Resim" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="KayıtTarihi" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="tblOgrenci_tblDersSecim" Member="tblDersSecims" ThisKey="Id" OtherKey="OgrId" Type="tblDersSecim" />
+      <Association Name="tblBolum_tblOgrenci" Member="tblBolum" ThisKey="BolumId" OtherKey="Id" Type="tblBolum" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblOgrtGorevlisi" Member="tblOgrtGorevlisis">
+    <Type Name="tblOgrtGorevlisi">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OgrtAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OgrtSoyadi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DersId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblOgrtGorevlisi_tblDersKayit" Member="tblDersKayits" ThisKey="Id" OtherKey="OgrtId" Type="tblDersKayit" />
+    </Type>
+  </Table>
+</Database>

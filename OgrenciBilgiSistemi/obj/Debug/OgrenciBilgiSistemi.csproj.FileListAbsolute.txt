@@ -1,0 +1,227 @@
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+D:\projeGoster\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciListele.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersListele.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersListele.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciListele.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi Yenı\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersListele.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciListele.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecim.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersListele.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecim.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciListele.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (05.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersListele.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecim.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciListele.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (06.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersListele.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecim.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciListele.resources
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Öğle\Desktop\OgrenciBilgiSistemi (07.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersListele.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecim.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciListele.resources
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\OSMAN\Desktop\OgrenciBilgiSistemi (08.08.2019)\OgrenciBilgiSistemi (02.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecimListele.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersListele.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecim.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecimListele.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciListele.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [19-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.ResolveComReference.cache
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.ResolveComReference.cache
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersListele.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecim.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecimListele.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciListele.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogretmenKayit.resources
+C:\Users\Section3\Desktop\OSMAN ULUSAN al\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrtListele.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.ResolveComReference.cache
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersListele.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecim.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecimListele.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciListele.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogretmenKayit.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrtListele.resources
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\OSMAN\Desktop\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.ResolveComReference.cache
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.frmGiris.resources
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersKayit.resources
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersListele.resources
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecim.resources
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.dersSecimListele.resources
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciKayit.resources
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrenciListele.resources
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogretmenKayit.resources
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sayfalar.ogrtListele.resources
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+D:\Proje [23-08-2019]\OgrenciBilgiSistemi (19.08.2019)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
